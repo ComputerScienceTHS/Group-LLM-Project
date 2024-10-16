@@ -1,10 +1,10 @@
 # Group-LLM-Project
 **Current HW:**
 
-\nMath Data
+Math Data
 
-\nEnglish Data
+English Data
 
-\nScience Data
+Science Data
 
-\n(History data complete)
+(History data complete)

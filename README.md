@@ -1,4 +1,6 @@
 # Group-LLM-Project
-The Computer Science Club's LLM Project
-
-Current Duties:
+**Current HW:**
+Math Data
+English Data
+Science Data
+(History data complete)

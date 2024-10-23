@@ -31,7 +31,7 @@ def preprocessing():
     return corpus
 
 
-def cosine_similarity(corpus):
+def cosine_similarity(vector_a, vector_b):
     pass
 
 
@@ -75,4 +75,6 @@ print("Estimated Time: " + str(len(sentences)/142) + " sec (According to model d
 
 # LLM Embedding
 embedding(sentences)
+
+
 

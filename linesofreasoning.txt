@@ -1,0 +1,122 @@
+Creating a Logical Line of Reasoning
+To create a persuasive line of reasoning that readers can follow, we must understand the natural instincts of humanity. Aristotle
+suggests we rely on prepared ways of thinking through argumentative topics to create recognizable lines of thought. This type of
+preparation asks students to develop their argument in general, recognizable lines of thinking, which are often referred to by
+rhetoricians as ​Aristotle’s Common Topics​: ​1. Definition 2. Comparison 3. Relationship 4. Circumstance 5. Testimony
+1. ​Definition​—Lines of Reasoning
+❏ Definitions can limit the subject argued to a certain class of things (genus). In other words, the subject is defined by the
+limits fixed on the term. (Ex. Socrates uses this strategy to defend himself against the charge that he is an atheist. Socrates
+questions what is meant by the term “divine” and then proposes a definition that supports his view).
+❏ Definitions can divide the terms of the argument into parts to clarify the concepts. This strategy of division can also serve as
+an organizing principle for the argument. (Ex. “There are four classes of idols which beset men’s minds. To these for
+distinction’s sake I have assigned names, call the first class Idols of the Tribe; the second, Idols of the Cave; the third, Idols
+of the Marketplace; the fourth, Idols of the Theatre.”—Francis Bacon ​Novum Organum,​ 1620).
+2. ​Comparison​—Lines of Reasoning
+❏ Similarity​ is a basic principle of many arguments because of the human tendency to measure one thing against another
+and to rely on the familiar to better understand the unfamiliar. Therefore, analogical arguments argue that if two things are
+alike in one or two characteristics, they are probably alike in another characteristic.
+○ A 1 2 3 4→5
+B 1 2 3 4 → (5)
+A and B resemble one another in 4 known, confirmable respects. This logical line of reasoning can develop from
+these knowable points of resemblance (similarities) creating the leap that 5 (being known in A) can probably be
+true for B, achieving probability, even though it is not certain.
+❏ Degrees​ of similarity or difference (more and less) helps to advance arguments for one thing as better than another or
+worse. These arguments require a value judgment and are subjected to several human tendencies (see criteria below).
+○ Criteria​: A greater number of things can be considered more desirable than a smaller number of the same things
+(numerical superiority). Ex. A congressional legislator may argue that a tax bill which will bring in 4 billion dollars of
+revenue is a better proposal than the tax bill that will bring in 3 billion dollars.
+○ Criteria​: That which is an end is a greater good than that which is only a means. A means is desirable only for the
+sake of something else, and an end is desirable for its own sake. Ex. Health is a greater good than exercise because
+we indulge in exercise for the sake of acquiring or maintaining health.
+○ Criteria​: What is scarce is greater than what is abundant. This principle is the basis of most monetary systems. Gold
+is more valuable than silver because gold is more scarce.
+○ Criteria​: What people of practical wisdom would choose is a greater good than what ignorant people would
+choose. This type of argument relies on authority, experts, and informed opinion over that of lay people or the
+masses.
+○ Criteria​: What the majority of people would choose is better than what the minority would choose. This line of
+thought is the opposite of the previous one for determining worth. Ex. Best Sellers lists and elections—the best
+candidate is the one people elect. Advertisers also rely on this line of thinking. What all people desire must be
+good. Advertisements often provide evidence that most people buy a product, which makes that product the best
+product due to the popularity of the product.
+○ Criteria​: What people would really like to possess is a greater good than what people would merely like to give the
+impression of possessing. Ex. In ​The Prince​, Machiavelli said that a reputation for virtue was so important to the
+image of a ruler that even if the ruler was not virtuous, the ruler must appear to be virtuous. This view suggests
+that power is a greater good than virtue because power is what the ruler really wants and to get power, the ruler
+must assume a mask of virtue.
+○ Criteria​: If a thing does not exist where it is more likely to exist, it will not exist where it is less likely to exist. This
+line of thinking creates force about what is probable, but does not create certainty. Ex. If a man would steal from a
+friend, he would steal from a stranger.
+Modified by Tara Seale from ​Classical Rhetoric for the Modern Student​ Edward P.J. Corbett
+
+3. ​Relationship​—Lines of Reasoning
+❏ Cause and Effect​ speaks to the curiosity of human nature to discover the “why” of something. In this case, arguments
+recognize an effect and then consider the causes. It is important that these lines of thinking do not presume a relationship
+and instead provide evidence of a relationship. Ex. Before Jonas Salk won approval to put his polio vaccine on the market,
+he had to present ample and sufficient evidence that the vaccine would prevent polio and contribute to the public welfare.
+This example would need a high degree of certainty because of the scientific nature. Yet, we often argue causally tracing an
+effect to a probable cause to create a high degree of probability, which is not the same as a high degree of certainty.
+❏ Antecedent and Consequence​ pursues a line of thinking that claims when given a certain situation what will follow is a
+particular consequence. Ex. If this person is a citizen (situation/antecedent), then this person has the right to vote
+(consequence).
+❏ Contraries​ involve opposite or incompatible things of the same kind (Ex. Liberty and Slavery). To create a line of reasoning
+for these types of arguments, Aristotle provides this example: “Self-control is beneficial because licentiousness is harmful.”
+The subject terms “self-control” and “licentiousness” are contraries and the descriptors “beneficial” and “harmful” are
+contraries. The argument advances when we describe the relationship in terms of a contrary relationship.
+❏ Contradictions​ are built on the principle that a thing cannot at the same time and in the same respect be and not be. Ex. If
+one group of experts claims that climate change is damaging to the environment and another group of experts claims that
+climate change is not damaging, we can see that these claims contradict and cannot both be correct. Student writers can
+benefit by recognizing contradictions to situate the argument in terms of the contradictory propositions. “Some say…
+others say... “ can set up an either/or alternative to clarify two incompatible positions, but this line of thinking often leads
+to false dichotomies that too narrowly limit the viewpoints.
+4. ​Circumstances​—Lines of Reasoning
+❏ Possible and Impossible ​involves proposing that a course of action is possible and/or discouraging another course of
+action as impossible.
+○ Criteria​: If one pair of contraries is possible, then the other is possible too. Ex. If you fall sick, you can get well.
+○ Criteria​: If one of a pair of similar things is possible, the other thing is possible too. Ex. If a person can play a piano,
+it is possible they can play an organ.
+○ Criteria​: If the more difficult of two things is possible, then the easier is possible too.
+○ Criteria​: If something can have a beginning it can have an end, and inversely, if something can have an end, it can
+have a beginning.
+○ Criteria​: If the parts of a thing are possible, then the whole is possible, and conversely, if the whole is possible, the
+parts are possible.
+○ Criteria​: If a thing can be produced without art or preparation, it certainly can be done with the help of art or
+planning.
+❏ Past fact and future fact​ ​often requires support, evidence, or argument to establish a past fact.
+○ Criteria​: If the less probable of two events has occurred, the more probable event is likely to have occurred too. Ex.
+If, as has been admitted, this man has been guilty of stealing from his father, do you find it too far-fetched to
+believe he was capable of embezzling from his employer?”
+○ Criteria​: If something that naturally follows something else has occurred, then that something else has happened
+too, and conversely, if the antecedents were present then the natural consequences occurred too. Ex. If we hear
+thunder, we presume lightning flashed, even if we did not see it.
+○ Criteria​: If someone had the power and the desire and the opportunity to do something, then he or she has done
+it. This argument assumes people will gratify their desires when they have the chance.
+○ Criteria​: If the power and the desire to do something are present, then that something will be done. Ex. Pacificists
+argue that the mere possession of atomic weapons poses a constant temptation to use those weapons.
+○ Criteria​: If the antecedents of something are present, then the natural consequences will occur. Ex. If a raging mob
+gathers, violence will follow.
+○ Criteria​: If the means are available, the end will be accomplished. Ex. The team with the best players will win.
+
+Modified by Tara Seale from ​Classical Rhetoric for the Modern Student​ Edward P.J. Corbett
+
+5. ​Testimony​—Lines of Reasoning
+❏ Authority​ carries less weight than it once did because we live in an Information Age and people are not as disposed to be
+swayed by the voice of authority and are less likely to accept something as true merely because someone claims it is true.
+Yet, informed opinion is still a persuasive force. No one person can claim knowledge on all things, so we often rely on the
+studies and research of specialized experts.
+❏ Testimonials​ often take the form of letters of recommendations, character witnesses, opinion polls, audience ratings, and
+best seller lists. Supporting an argument with this strategy can be successful in certain circumstances, but could also be
+viewed as vulnerable to counterarguments.
+❏ Statistics​ provides persuasive support for arguments, but statistics have limitations and should not always be accepted
+uncritically. Pollsters, for example, often assume that people always know their own mind on questions put to them and
+that people will give truthful answers.
+❏ Maxims​ are precepts, proverbs, famous sayings, self-evident truths, and other charismatic statements that are helpful in
+creating persuasive arguments. Yet, relying too much on maxims or repeating maxims without forethought or additional
+commentary can be viewed as lazy and simplistic.
+❏ Laws​, statutes, contracts, testaments, records, and primary documents (recorded evidence) is a compelling force in
+arguments. But we must also realize that recorded words are also open to challenge and interpretation.
+❏ Precedent​ (Examples) refers to what has happened before. Examples that came before often set precedents that guide the
+present, like judicial decisions.
+
+Modified by Tara Seale from ​Classical Rhetoric for the Modern Student​ Edward P.J. Corbett
+
+
